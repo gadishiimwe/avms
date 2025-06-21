@@ -1,4 +1,4 @@
-# avms
+
 AVMS-Project-PHP
 
 The apartment Visitor Management system is a web-based technology that will revolutionize the way your society manages visitors and provide visitor pass to them. The visitor Management system is more important to security guards or security society. This web application provides a way to effectively control records & track society visitor traffic.
@@ -13,3 +13,7 @@ Visitors: In this section, admin adds new visitors by filling their information 
 Search: In this bar, admin can search a particular person by their name and phone number.
 Reports: In this section admin can generate visitors reports between two dates.
 Admin can also update his profile, change password and recover password.
+
+
+
+================================================
