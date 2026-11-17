@@ -17,3 +17,14 @@ Admin can also update his profile, change password and recover password.
 
 
 ================================================
+
+
+---
+
+## Developer
+
+This project was developed and is maintained by **Gad Ishimwe**, a Full-Stack Developer based in Rwanda.
+
+- **Portfolio:** https://gadishimwe.vercel.app
+- **GitHub:** https://github.com/gadishiimwe
+- **LinkedIn:** https://www.linkedin.com/in/gad-ishimwe/
